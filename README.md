@@ -16,3 +16,5 @@ User name: genius
 Passward: yanjiaqin
 
 VNC Server:10.16.233.205:5900
+
+The CSI camera is working.
